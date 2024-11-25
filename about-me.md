@@ -1,3 +1,3 @@
-# Example Second Page
+# About Me
 
-This is an example second page that will appear in the Sidebar.
+> WIP
